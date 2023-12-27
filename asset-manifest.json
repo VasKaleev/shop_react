@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "./static/css/main.daf76e3d.css",
-    "main.js": "./static/js/main.58be4986.js",
-    "static/media/logo.svg": "./static/media/logo.629722e5b80c3481445e8c6fdb26eca2.svg",
-    "static/media/avatarIcon.svg": "./static/media/avatarIcon.1319a3a7c268d68476b15f881d572aad.svg",
-    "static/media/cartWhite.svg": "./static/media/cartWhite.fc9ce25e30345e257620c2619ef380e9.svg",
-    "static/media/cart.svg": "./static/media/cart.9779896aff320189ecda00dfd696cb39.svg",
-    "static/media/rating.svg": "./static/media/rating.939d820e05a21cb3f1667d25b0e88c50.svg",
-    "index.html": "./index.html",
-    "static/media/arrow.svg": "./static/media/arrow.f49f0b20f2c5e1a7ebe6cdb042456c60.svg",
-    "main.daf76e3d.css.map": "./static/css/main.daf76e3d.css.map",
-    "main.58be4986.js.map": "./static/js/main.58be4986.js.map"
+    "main.css": "/VasKaleev/shop_react/static/css/main.daf76e3d.css",
+    "main.js": "/VasKaleev/shop_react/static/js/main.afd0886b.js",
+    "static/media/logo.svg": "/VasKaleev/shop_react/static/media/logo.629722e5b80c3481445e8c6fdb26eca2.svg",
+    "static/media/avatarIcon.svg": "/VasKaleev/shop_react/static/media/avatarIcon.1319a3a7c268d68476b15f881d572aad.svg",
+    "static/media/cartWhite.svg": "/VasKaleev/shop_react/static/media/cartWhite.fc9ce25e30345e257620c2619ef380e9.svg",
+    "static/media/cart.svg": "/VasKaleev/shop_react/static/media/cart.9779896aff320189ecda00dfd696cb39.svg",
+    "static/media/rating.svg": "/VasKaleev/shop_react/static/media/rating.939d820e05a21cb3f1667d25b0e88c50.svg",
+    "index.html": "/VasKaleev/shop_react/index.html",
+    "static/media/arrow.svg": "/VasKaleev/shop_react/static/media/arrow.f49f0b20f2c5e1a7ebe6cdb042456c60.svg",
+    "main.daf76e3d.css.map": "/VasKaleev/shop_react/static/css/main.daf76e3d.css.map",
+    "main.afd0886b.js.map": "/VasKaleev/shop_react/static/js/main.afd0886b.js.map"
   },
   "entrypoints": [
     "static/css/main.daf76e3d.css",
-    "static/js/main.58be4986.js"
+    "static/js/main.afd0886b.js"
   ]
 }
