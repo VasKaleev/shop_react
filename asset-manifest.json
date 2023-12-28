@@ -1,19 +1,18 @@
 {
   "files": {
     "main.css": "/VasKaleev/shop_react/static/css/main.daf76e3d.css",
-    "main.js": "/VasKaleev/shop_react/static/js/main.06bdb67f.js",
+    "main.js": "/VasKaleev/shop_react/static/js/main.65c47486.js",
     "static/media/logo.svg": "/VasKaleev/shop_react/static/media/logo.629722e5b80c3481445e8c6fdb26eca2.svg",
-    "static/media/avatarIcon.svg": "/VasKaleev/shop_react/static/media/avatarIcon.1156112713dea0e615ede8d2e9e50ada.svg",
-    "static/media/cartWhite.svg": "/VasKaleev/shop_react/static/media/cartWhite.299a4891942dc40c3ebf7ab4bbb61f2b.svg",
-    "static/media/cart.svg": "/VasKaleev/shop_react/static/media/cart.365ac0ebd03bde9cc240e9ccae5d9a57.svg",
-    "static/media/rating.svg": "/VasKaleev/shop_react/static/media/rating.91109eea7b7ed3bf85fb128aac38d874.svg",
+    "static/media/cartWhite.svg": "/VasKaleev/shop_react/static/media/cartWhite.fc9ce25e30345e257620c2619ef380e9.svg",
+    "static/media/cart.svg": "/VasKaleev/shop_react/static/media/cart.9779896aff320189ecda00dfd696cb39.svg",
+    "static/media/rating.svg": "/VasKaleev/shop_react/static/media/rating.939d820e05a21cb3f1667d25b0e88c50.svg",
     "index.html": "/VasKaleev/shop_react/index.html",
-    "static/media/arrow.svg": "/VasKaleev/shop_react/static/media/arrow.ce60653fb7ce67a5d3da797c1305e948.svg",
+    "static/media/arrow.svg": "/VasKaleev/shop_react/static/media/arrow.f49f0b20f2c5e1a7ebe6cdb042456c60.svg",
     "main.daf76e3d.css.map": "/VasKaleev/shop_react/static/css/main.daf76e3d.css.map",
-    "main.06bdb67f.js.map": "/VasKaleev/shop_react/static/js/main.06bdb67f.js.map"
+    "main.65c47486.js.map": "/VasKaleev/shop_react/static/js/main.65c47486.js.map"
   },
   "entrypoints": [
     "static/css/main.daf76e3d.css",
-    "static/js/main.06bdb67f.js"
+    "static/js/main.65c47486.js"
   ]
 }
