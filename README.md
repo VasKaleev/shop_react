@@ -1,3 +1,3 @@
 ### Запуск npm i
-## npm run start
+### npm run start
 ### https://shop-old.netlify.app/
